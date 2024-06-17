@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="NavBar.master.cs" Inherits="StockoApp.Layout.NavBar" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="~/Styles/navbar.css"/>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="di">
+        <div>
+            <h1>Stocko</h1>
+        </div>
+
+        <div>
+            <asp:Button class="did" ID="HomeButton" EnableViewState="true" runat="server" Text="Home" OnClick="HomeButton_Click"/>
+<asp:Button class="did" ID="ItemManage" EnableViewState="true" runat="server" Text="Manage Items" OnClick="ItemManage_Click"/>
+<asp:Button class="did" ID="HistoryButton" EnableViewState="true" runat="server" Text="Transaction History" OnClick="HistoryButton_Click"/>
+<asp:Button class="did" ID="OrderItem" EnableViewState="true" runat="server" Text="Order Item" OnClick="OrderItem_Click1"/>
+<asp:Button class="did" ID="ProfileButton" EnableViewState="true" runat="server" Text="Profile" OnClick="ProfileButton_Click"/>
+<asp:Button class="did" ID="logoutButton" EnableViewState="true" runat="server" Text="Logout" OnClick="logoutButton_Click" />
+   
+        </div>
+         </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

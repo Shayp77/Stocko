@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\psd\\StockoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|d:\\psd\\stockoapp\\stockoapp\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|solutionrelative:stockoapp\\views\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|d:\\psd\\stockoapp\\stockoapp\\views\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|solutionrelative:stockoapp\\views\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|d:\\psd\\stockoapp\\stockoapp\\views\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|solutionrelative:stockoapp\\views\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|d:\\psd\\stockoapp\\stockoapp\\styles\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|solutionrelative:stockoapp\\styles\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|d:\\psd\\stockoapp\\stockoapp\\layout\\navbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|solutionrelative:stockoapp\\layout\\navbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|d:\\psd\\stockoapp\\stockoapp\\views\\updateitempage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|solutionrelative:stockoapp\\views\\updateitempage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|d:\\psd\\stockoapp\\stockoapp\\views\\updateitempage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|solutionrelative:stockoapp\\views\\updateitempage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|d:\\psd\\stockoapp\\stockoapp\\views\\inserttype.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|solutionrelative:stockoapp\\views\\inserttype.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|d:\\psd\\stockoapp\\stockoapp\\views\\inserttype.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|solutionrelative:stockoapp\\views\\inserttype.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|d:\\psd\\stockoapp\\stockoapp\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|solutionrelative:stockoapp\\views\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|d:\\psd\\stockoapp\\stockoapp\\views\\insertitem.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|solutionrelative:stockoapp\\views\\insertitem.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|d:\\psd\\stockoapp\\stockoapp\\views\\insertitem.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|solutionrelative:stockoapp\\views\\insertitem.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|d:\\psd\\stockoapp\\stockoapp\\views\\orderitem.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|solutionrelative:stockoapp\\views\\orderitem.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|d:\\psd\\stockoapp\\stockoapp\\views\\manageitem.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A19292A9-F145-48EB-AF50-FFE3752FE213}|StockoApp\\StockoApp.csproj|solutionrelative:stockoapp\\views\\manageitem.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 364,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "navbar.css",
+              "DocumentMoniker": "D:\\psd\\StockoApp\\StockoApp\\Styles\\navbar.css",
+              "RelativeDocumentMoniker": "StockoApp\\Styles\\navbar.css",
+              "ToolTip": "D:\\psd\\StockoApp\\StockoApp\\Styles\\navbar.css",
+              "RelativeToolTip": "StockoApp\\Styles\\navbar.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-17T10:48:16.1Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterPage.aspx",
+              "DocumentMoniker": "D:\\psd\\StockoApp\\StockoApp\\Views\\RegisterPage.aspx",
+              "RelativeDocumentMoniker": "StockoApp\\Views\\RegisterPage.aspx",
+              "ToolTip": "D:\\psd\\StockoApp\\StockoApp\\Views\\RegisterPage.aspx",
+              "RelativeToolTip": "StockoApp\\Views\\RegisterPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T11:24:16.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterPage.aspx.cs",
+              "DocumentMoniker": "D:\\psd\\StockoApp\\StockoApp\\Views\\RegisterPage.aspx.cs",
+              "RelativeDocumentMoniker": "StockoApp\\Views\\RegisterPage.aspx.cs",
+              "ToolTip": "D:\\psd\\StockoApp\\StockoApp\\Views\\RegisterPage.aspx.cs",
+              "RelativeToolTip": "StockoApp\\Views\\RegisterPage.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:24:15.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "D:\\psd\\StockoApp\\StockoApp\\Views\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "StockoApp\\Views\\LoginPage.aspx",
+              "ToolTip": "D:\\psd\\StockoApp\\StockoApp\\Views\\LoginPage.aspx",
+              "RelativeToolTip": "StockoApp\\Views\\LoginPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T11:22:44.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateItemPage.aspx.cs",
+              "DocumentMoniker": "D:\\psd\\StockoApp\\StockoApp\\Views\\UpdateItemPage.aspx.cs",
+              "RelativeDocumentMoniker": "StockoApp\\Views\\UpdateItemPage.aspx.cs",
+              "ToolTip": "D:\\psd\\StockoApp\\StockoApp\\Views\\UpdateItemPage.aspx.cs",
+              "RelativeToolTip": "StockoApp\\Views\\UpdateItemPage.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:17:55.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InsertType.aspx.cs",
+              "DocumentMoniker": "D:\\psd\\StockoApp\\StockoApp\\Views\\InsertType.aspx.cs",
+              "RelativeDocumentMoniker": "StockoApp\\Views\\InsertType.aspx.cs",
+              "ToolTip": "D:\\psd\\StockoApp\\StockoApp\\Views\\InsertType.aspx.cs",
+              "RelativeToolTip": "StockoApp\\Views\\InsertType.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:16:29.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateItemPage.aspx",
+              "DocumentMoniker": "D:\\psd\\StockoApp\\StockoApp\\Views\\UpdateItemPage.aspx",
+              "RelativeDocumentMoniker": "StockoApp\\Views\\UpdateItemPage.aspx",
+              "ToolTip": "D:\\psd\\StockoApp\\StockoApp\\Views\\UpdateItemPage.aspx",
+              "RelativeToolTip": "StockoApp\\Views\\UpdateItemPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T11:15:54.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InsertType.aspx",
+              "DocumentMoniker": "D:\\psd\\StockoApp\\StockoApp\\Views\\InsertType.aspx",
+              "RelativeDocumentMoniker": "StockoApp\\Views\\InsertType.aspx",
+              "ToolTip": "D:\\psd\\StockoApp\\StockoApp\\Views\\InsertType.aspx",
+              "RelativeToolTip": "StockoApp\\Views\\InsertType.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T11:15:47.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InsertItem.aspx.cs",
+              "DocumentMoniker": "D:\\psd\\StockoApp\\StockoApp\\Views\\InsertItem.aspx.cs",
+              "RelativeDocumentMoniker": "StockoApp\\Views\\InsertItem.aspx.cs",
+              "ToolTip": "D:\\psd\\StockoApp\\StockoApp\\Views\\InsertItem.aspx.cs",
+              "RelativeToolTip": "StockoApp\\Views\\InsertItem.aspx.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwCgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:15:10.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InsertItem.aspx",
+              "DocumentMoniker": "D:\\psd\\StockoApp\\StockoApp\\Views\\InsertItem.aspx",
+              "RelativeDocumentMoniker": "StockoApp\\Views\\InsertItem.aspx",
+              "ToolTip": "D:\\psd\\StockoApp\\StockoApp\\Views\\InsertItem.aspx",
+              "RelativeToolTip": "StockoApp\\Views\\InsertItem.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T11:10:52.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderItem.aspx",
+              "DocumentMoniker": "D:\\psd\\StockoApp\\StockoApp\\Views\\OrderItem.aspx",
+              "RelativeDocumentMoniker": "StockoApp\\Views\\OrderItem.aspx",
+              "ToolTip": "D:\\psd\\StockoApp\\StockoApp\\Views\\OrderItem.aspx",
+              "RelativeToolTip": "StockoApp\\Views\\OrderItem.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T11:08:55.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageItem.aspx",
+              "DocumentMoniker": "D:\\psd\\StockoApp\\StockoApp\\Views\\ManageItem.aspx",
+              "RelativeDocumentMoniker": "StockoApp\\Views\\ManageItem.aspx",
+              "ToolTip": "D:\\psd\\StockoApp\\StockoApp\\Views\\ManageItem.aspx",
+              "RelativeToolTip": "StockoApp\\Views\\ManageItem.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T11:08:31.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavBar.Master",
+              "DocumentMoniker": "D:\\psd\\StockoApp\\StockoApp\\Layout\\NavBar.Master",
+              "RelativeDocumentMoniker": "StockoApp\\Layout\\NavBar.Master",
+              "ToolTip": "D:\\psd\\StockoApp\\StockoApp\\Layout\\NavBar.Master",
+              "RelativeToolTip": "StockoApp\\Layout\\NavBar.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T11:04:20.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "D:\\psd\\StockoApp\\StockoApp\\Views\\HomePage.aspx",
+              "RelativeDocumentMoniker": "StockoApp\\Views\\HomePage.aspx",
+              "ToolTip": "D:\\psd\\StockoApp\\StockoApp\\Views\\HomePage.aspx",
+              "RelativeToolTip": "StockoApp\\Views\\HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T08:58:04.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

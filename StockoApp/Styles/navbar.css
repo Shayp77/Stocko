@@ -1,0 +1,40 @@
+﻿body {
+    padding:0;
+    margin:0px;
+}
+
+.di {
+    display: flex;
+    justify-content: space-between;
+    
+    background-color: rgba(108,162,213,1);
+    padding: 10px;
+    align-items: center;
+    color:white;
+    width:100%;
+}
+.did {
+    margin: 10px;
+    border: none;
+    background-color: rgba(108,162,213,1);
+    color:white;
+}
+
+.but{
+    margin:20px;
+    display:flex;
+    column-gap:20px;
+    border:none;
+}
+
+.insertitem{
+    display:flex;
+    flex-direction:column;
+    margin-left:20px;
+}
+.bawahitem{
+    display:flex;
+    justify-content:space-between;
+    width:20%;
+
+}

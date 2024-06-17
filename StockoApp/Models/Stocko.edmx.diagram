@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="41a9f910c9c84f659892584005db40b6" Name="Diagram1">
+        <EntityTypeShape EntityType="StockoModel.Cart" Width="1.5" PointX="3" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="StockoModel.Item" Width="1.5" PointX="6" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="StockoModel.ItemType" Width="1.5" PointX="3.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="StockoModel.TransactionDetail" Width="1.5" PointX="8.25" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="StockoModel.TransactionHeader" Width="1.5" PointX="3" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="StockoModel.User" Width="1.5" PointX="0.75" PointY="4.125" IsExpanded="true" />
+        <AssociationConnector Association="StockoModel.FK_Carts_Items" ManuallyRouted="false" />
+        <AssociationConnector Association="StockoModel.FK_Carts_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="StockoModel.FK_Items_ItemType" ManuallyRouted="false" />
+        <AssociationConnector Association="StockoModel.FK_Items_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="StockoModel.FK_TransactionDetails_Items" ManuallyRouted="false" />
+        <AssociationConnector Association="StockoModel.FK_TransactionDetails_TransactionHeaders" ManuallyRouted="false" />
+        <AssociationConnector Association="StockoModel.FK_TransactionHeaders_Users" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
